@@ -1,5 +1,5 @@
 # us-de-xkbmap
-The keyboard layout I use.
+The keyboard layout I use on Linux.
 
 # Features
 
