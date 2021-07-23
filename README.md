@@ -6,8 +6,11 @@ The keyboard layout I use.
 It's an English (US) keyboard layout, with the addition that you can use `AltGr` to produce German characters:
 
 `AltGr + Shift + u` => `Ü`, `AltGr + u` => `ü`
+
 `AltGr + Shift + o` => `Ö`, `AltGr + o` => `ö`
+
 `AltGr + Shift + a` => `Ä`, `AltGr + a` => `ä`
+
 `AltGr + s` => `ß`
 
 With some personal additions like the implication arrow `→`
