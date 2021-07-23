@@ -13,7 +13,8 @@ It's an English (US) keyboard layout, with the addition that you can use `AltGr`
 
 `AltGr + s` => `ß`
 
-With some personal additions like the implication arrow `→`
+With some personal additions like the implication arrow:
+
 `AltGr + i` => `→`
 
 # How to try it?
