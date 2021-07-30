@@ -5,17 +5,23 @@ The keyboard layout I use on Linux.
 
 It's an English (US) keyboard layout, with the addition that you can use `AltGr` to produce German characters:
 
-`AltGr + Shift + u` => `Ü`, `AltGr + u` => `ü`
+<kbd>AltGr</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd> => `Ö`
 
-`AltGr + Shift + o` => `Ö`, `AltGr + o` => `ö`
+<kbd>AltGr</kbd> + <kbd>Shift</kbd> + <kbd>A</kbd> => `Ä`
 
-`AltGr + Shift + a` => `Ä`, `AltGr + a` => `ä`
+<kbd>AltGr</kbd> + <kbd>Shift</kbd> + <kbd>u</kbd> => `Ü`
 
-`AltGr + s` => `ß`
+<kbd>AltGr</kbd> + <kbd>o</kbd> => `ö`
+
+<kbd>AltGr</kbd> + <kbd>a</kbd> => `ä`
+
+<kbd>AltGr</kbd> + <kbd>u</kbd> => `ü`
+
+<kbd>AltGr</kbd> + <kbd>s</kbd> => `ß`
 
 With some personal additions like the implication arrow:
 
-`AltGr + i` => `→`
+<kbd>AltGr</kbd> + <kbd>i</kbd> => `→`
 
 # How to try it?
 
