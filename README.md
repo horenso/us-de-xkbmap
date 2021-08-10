@@ -9,19 +9,19 @@ It's an English (US) keyboard layout, with the addition that you can use `AltGr`
 
 <kbd>AltGr</kbd> + <kbd>Shift</kbd> + <kbd>A</kbd> => `Ä`
 
-<kbd>AltGr</kbd> + <kbd>Shift</kbd> + <kbd>u</kbd> => `Ü`
+<kbd>AltGr</kbd> + <kbd>Shift</kbd> + <kbd>U</kbd> => `Ü`
 
-<kbd>AltGr</kbd> + <kbd>o</kbd> => `ö`
+<kbd>AltGr</kbd> + <kbd>O</kbd> => `ö`
 
-<kbd>AltGr</kbd> + <kbd>a</kbd> => `ä`
+<kbd>AltGr</kbd> + <kbd>A</kbd> => `ä`
 
-<kbd>AltGr</kbd> + <kbd>u</kbd> => `ü`
+<kbd>AltGr</kbd> + <kbd>U</kbd> => `ü`
 
-<kbd>AltGr</kbd> + <kbd>s</kbd> => `ß`
+<kbd>AltGr</kbd> + <kbd>S</kbd> => `ß`
 
 With some personal additions like the implication arrow:
 
-<kbd>AltGr</kbd> + <kbd>i</kbd> => `→`
+<kbd>AltGr</kbd> + <kbd>I</kbd> => `→`
 
 # How to try it?
 
